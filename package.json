@@ -1,0 +1,11 @@
+{
+  "name": "sumasrestas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodejs index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sergi",
+  "license": "ISC"
+}
